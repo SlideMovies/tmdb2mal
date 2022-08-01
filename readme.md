@@ -12,5 +12,5 @@ I needed it, because I was getting data from TMDb, but needed MyAnimeList to dis
 ## Nice, but I don't want to host it myself
 You can use the already hosted version: https://tmdb2mal.slidemovies.org/?id={tmdb_id}&s={season_number}
 
-## Thanks to
+## Thanks to:
 Jikan.moe ([www.jikan.moe](https://jikan.moe)) & The TMDb API ([api.themoviedb.org](https://api.themoviedb.org))
