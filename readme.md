@@ -14,3 +14,5 @@ You can use the already hosted version: https://tmdb2mal.slidemovies.org/?id={tm
 
 ## Thanks to:
 Jikan.moe ([www.jikan.moe](https://jikan.moe)) & The TMDb API ([api.themoviedb.org](https://api.themoviedb.org))
+
+Under the [MIT](https://github.com/SlideMovies/tmdb2mal/blob/main/LICENSE) license
